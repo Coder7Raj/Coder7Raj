@@ -19,11 +19,11 @@
 
 ###
 
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder7raj&" alt="coder7raj" /></p>
 
 ###
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 ###
 - 🔭 I’m currently working on **MERN Stack**
 
