@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm MD.OWARASUR RAHMAN RAJ</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Raj</h1>
+
+<p align="center">
+  <img src="https://i.postimg.cc/C11MNtMZ/github-header-image.png" alt="Coder7Raj Banner" width="100%">
+</p>
+
+
+
+<h3 align="left">A passionate frontend developer from Bangladesh.</h3>
 
 ###
 
@@ -10,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
@@ -25,9 +32,8 @@
 <div align="left">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-<a href="https://linkedin.com/in/owarasur rahman raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owarasur rahman raj" height="30" width="40" /></a>
-<a href="https://fb.com/owarasur rahman raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owarasur rahman raj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md_owarasur_rahman_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_owarasur_rahman_raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/owarasur-rahman-raj-49159b329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owarasur rahman raj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/owarasur.rahman.raj.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owarasur rahman raj" height="30" width="40" /></a>
 </p>
 </div>
 
