@@ -50,9 +50,12 @@
 
 <br clear="both">
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Coder7Raj" alt="Coder7Raj" /></a></p> -->
-<p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Coder7Raj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Coder7Raj&theme=onedark" alt="GitHub Trophies" />
+  </a>
 </p>
+
 
 
 ###
