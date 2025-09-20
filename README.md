@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 
-![My Banner](https://i.postimg.cc/bw5MFbxd/github-banner.png)
-
 <h4 align="left">A passionate frontend developer from Bangladesh. As a frontend developer, I’m passionate about staying up to date with the latest technologies and trends. I love to explore new tools, frameworks, and libraries to improve my skills and build even better projects.</h4>
 
 
