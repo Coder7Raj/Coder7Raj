@@ -3,7 +3,15 @@
 <h4 align="left">A passionate frontend developer from Bangladesh. As a frontend developer, I’m passionate about staying up to date with the latest technologies and trends. I love to explore new tools, frameworks, and libraries to improve my skills and build even better projects.</h4>
 
 
+###
 
+
+- 🔭 I’m currently working on **MERN Stack**
+
+- 🌱 I’m currently learning **JS & DSA**
+
+- 📫 How to reach me **alwaysraj733@gmail.com**
+### 
 
 
 ###
@@ -17,16 +25,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder7raj&" alt="coder7raj" /></p>
 
-###
-
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **JS & DSA**
-
-- 📫 How to reach me **alwaysraj733@gmail.com**
-### 
 
 
 <div align="left">
