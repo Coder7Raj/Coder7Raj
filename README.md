@@ -2,13 +2,13 @@
 
 
 
-<h3 align="center">Frontend Developer | MERN Stack Learner | Problem Solver</h3>
+<h3 align="center">Aspiring Software Engineer | Web Developer | Passionate Problem Solver</h3>
 
 
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+DSA;Learning+Software+Engineering;Passionate+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Web+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+DSA;Learning+Software+Engineering;Passionate+Tech+Explorer" />
 
 </p>
 
@@ -40,10 +40,9 @@
 
 <h4 align="left">
 
-I am a passionate frontend developer from Bangladesh. I love building clean, responsive, and interactive web applications.  
+Hi, I’m Raj. I’m pursuing a Diploma in Computer Science and passionate about software development. I enjoy building web applications, solving coding challenges, and continuously improving my skills to become a software engineer.
 
-Currently I am focusing on the MERN stack, improving my JavaScript expertise, practicing problem solving, and strengthening my software engineering fundamentals.
-
+Currently, I’m focused on advancing my JavaScript expertise, practicing problem solving, and strengthening my software engineering fundamentals.
 </h4>
 
 
@@ -68,40 +67,24 @@ Currently I am focusing on the MERN stack, improving my JavaScript expertise, pr
 
 - 📫 Email: **alwaysraj733@gmail.com**
 
-
-
 ---
-
-
-
-
 ###
+
 
 <div align="center">
-<img src="https://github-readme-stats-4awrtw8vu-rajs-projects-703dd1b1.vercel.app/api?username=coder7raj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
-<img src="https://github-readme-stats-4awrtw8vu-rajs-projects-703dd1b1.vercel.app/api/top-langs?username=coder7raj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
-</div>
-
-###
-<!--###
-
-![](https://github-readme-stats.vercel.app/api?username=coder7raj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=coder7raj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
-
-###-->
-
----
-###
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false)<br/>
-
+  
+![](https://github-readme-stats.vercel.app/api?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 
+---
+
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false)
+
+</div>
 
 ###
 
