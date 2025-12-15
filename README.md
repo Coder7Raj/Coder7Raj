@@ -54,7 +54,6 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 
-
 ### 🚀 **What I'm Doing Now**
 
 
@@ -71,9 +70,8 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 
 ---
 
+
 ## 🛠️ **Tech Stack Badges**
-
-
 
 ### **Frontend**
 
@@ -155,9 +153,11 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 
 ---
 
-<div align="center">
+<div align="start">
+<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false)
+
 
 </div>
 
