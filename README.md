@@ -67,52 +67,9 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 
 - 📫 Email: **alwaysraj733@gmail.com**
 
----
-###
-
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false)
-
-</div>
-
-###
-
 
 
 ---
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/api?username=coder7raj&theme=onedark" alt="GitHub Trophies" />
-</a>
-</p>
-
----
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder7raj&theme=dracula" />
-
-</p>
-
-
-
----
-
-
 
 ## 🛠️ **Tech Stack Badges**
 
@@ -176,13 +133,52 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 
 </p>
 
+---
+
+## 🔗 Connect With Me <p align="left"> 
+<a href="https://www.linkedin.com/in/owarasurrahman/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+<a href="https://www.facebook.com/owarasur.rahman.raj.2024" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> 
+</p>
+
+
+
+---
+###
+
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false)
+
+</div>
+
+###
+
+
+
+---
+![](https://github-trophies.vercel.app/?username=coder7raj)
 
 
 ---
 
 
 
-## 🔗 Connect With Me <p align="left"> 
-<a href="https://www.linkedin.com/in/owarasurrahman/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-<a href="https://www.facebook.com/owarasur.rahman.raj.2024" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> 
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder7raj&theme=dracula" />
+
 </p>
+
+
+
+---
