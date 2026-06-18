@@ -144,7 +144,7 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 ###
 
 
-<div align="center">
+<div>
   
 ![](https://github-readme-stats.vercel.app/api?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -156,7 +156,8 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 <div align="start">
 <!-- <img align="right" width="320" height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false)
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false) -->
+[![GitHub Streak](https://streak-stats.vercel.app?user=coder7raj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 </div>
