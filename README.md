@@ -144,11 +144,11 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 ###
 
 
-<div>
+<div align="start">
   
-![](https://github-readme-stats.vercel.app/api?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=coder7raj&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coder7raj&layout=compact&theme=dark)
 </div>
 
 ---
