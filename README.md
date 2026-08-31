@@ -143,23 +143,12 @@ Currently, I’m focused on advancing my JavaScript expertise, practicing proble
 ---
 ###
 
-
 <div align="start">
   
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=coder7raj&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coder7raj&layout=compact&theme=dark)
-</div>
-
----
-
-<div align="start">
-<!-- <img align="right" width="320" height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> -->
-
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=coder7raj&theme=dark&hide_border=false) -->
-[![GitHub Streak](https://streak-stats.vercel.app?user=coder7raj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Coder7Raj&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Coder7Raj&show_icons=true&include_all_commits=true&theme=radical)
 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Coder7Raj&layout=donut&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Coder7Raj&layout=donut&langs_count=4&theme=radical)
 </div>
 
 ###
